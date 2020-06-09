@@ -1,5 +1,6 @@
 # Tateti
 
+## Reglas del juego
 1. El jugador que juegue primero sera el que saque el numero mas alto en un dado
 2. El juego debe de aceptar 2 jugadores.
 2.1 Si hay empate se tira de nuevo.
