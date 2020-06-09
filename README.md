@@ -3,9 +3,9 @@
 ## Reglas del juego
 1. El jugador que juegue primero sera el que saque el numero mas alto en un dado
 2. El juego debe de aceptar 2 jugadores.
-  * Si hay empate se tira de nuevo.
+   * Si hay empate se tira de nuevo.
 
-  * El jugado que incia comienza jugando la X
+   * El jugado que incia comienza jugando la X
 
 3. Tendremos 2 tipos de ficha X y O
 4. el jugador que coloca una ficha no puede volver a colocar la siguiente hasta que el contrario haya colocado
